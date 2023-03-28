@@ -1,0 +1,7 @@
+{
+  "name": "rickApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
